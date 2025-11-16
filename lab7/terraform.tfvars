@@ -1,0 +1,1 @@
+storage_account_suffix = "cloud007"
